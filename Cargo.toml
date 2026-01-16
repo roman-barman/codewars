@@ -1,5 +1,5 @@
 [workspace]
 resolver = "2"
-members = [
+members = ["moving_zero_to_the_end",
     "multiples_3_or_5"
 ]
